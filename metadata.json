@@ -1,0 +1,11 @@
+{
+  "name": "RescueVoice",
+  "description": "Sub-150ms voice agent interruption and correction engine eliminating ghost playback and async race conditions.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
